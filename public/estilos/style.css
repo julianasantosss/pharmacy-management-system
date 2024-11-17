@@ -1,0 +1,24 @@
+* 
+ .content h1{
+     text-align: center;
+     font-size: 40px;
+     font-family: italic;
+     color: var(--tittle-color);
+     font-weight: 600;
+     margin-top: 75px;
+ }
+ .content h1 span{
+     /*text-align: center;*/
+     font-family: serif;
+     font-weight: 400;
+     font-style: italic;
+ }
+ .content h2{
+     /*text-align: center;*/
+     font-weight: 400;
+     font-style: italic;
+ }
+ .body{
+    background-image: url(../estilos/imgfarmacia.jpg);
+ }
+
